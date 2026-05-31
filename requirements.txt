@@ -1,3 +1,7 @@
 streamlit
+tensorflow
 keras
 numpy
+pickle
+json
+load_model
